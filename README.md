@@ -13,7 +13,7 @@ Capturas de pantalla
 <img width="317" alt="Captura de Pantalla 2022-03-11 a la(s) 18 42 55" src="https://user-images.githubusercontent.com/51034538/157974617-b907245d-0298-4cf5-bd58-5a7c93595b0f.png">   <img width="315" alt="Captura de Pantalla 2022-03-11 a la(s) 18 43 22" src="https://user-images.githubusercontent.com/51034538/157974627-5a13b8de-ffc6-423c-a63e-02e8120c2694.png">
 
 Guía de implementación
-Trabajo con una API externa que me devuelve los productos, la url es https://developer.marvel.com/docs
+Trabajo con una API externa que me devuelve los personajes, la url es https://developer.marvel.com/docs
 Arquitectura
 Este proyecto implementa el patrón de arquitectura MVVM y sigue buenas prácticas de Clean Architecture para hacer un código más independiente, mantenible y sencillo.
 
